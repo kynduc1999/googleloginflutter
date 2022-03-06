@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846768429328",
+    "project_id": "loginflutter-eef38",
+    "storage_bucket": "loginflutter-eef38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846768429328:android:869e0bc7d2d2d049efad95",
+        "android_client_info": {
+          "package_name": "com.example.googleloginflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846768429328-mq240eroeuesjp9dm64ri0ffa6lfl7ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfdtWnXGW9Jwb241noUzMq1fP0Y4EhttM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846768429328-mq240eroeuesjp9dm64ri0ffa6lfl7ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
